@@ -1,0 +1,1 @@
+<img src="mode.gif">
